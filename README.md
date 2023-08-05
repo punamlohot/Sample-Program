@@ -1,2 +1,1 @@
-# Sample-Program
-JS Sample Program
+# Practice Programs and Activities
